@@ -1,0 +1,5 @@
+print('nomer 3')
+for b in range(0,int(input())):
+    for c in range(0,b+1):
+        print('*', end='')
+    print()
