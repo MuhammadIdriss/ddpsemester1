@@ -1,0 +1,7 @@
+
+print('nomer 2')
+x = 0
+for a in range(1,20,2):
+    x = x + a
+print(x)
+print('')
